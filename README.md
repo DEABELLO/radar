@@ -1,5 +1,5 @@
 # radar
-radar project for school and using arduino uno micro controller and ultra sonic sensor 
+radar project for school and college using arduino uno micro controller and ultra sonic sensor 
 for Arduino IDE:
 #include <Servo.h>
 
